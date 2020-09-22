@@ -1,0 +1,13 @@
+C:\Users\karpz\source\repos\CProj2\CProj2\bin\Debug\netcoreapp3.1\CProj2.exe
+C:\Users\karpz\source\repos\CProj2\CProj2\bin\Debug\netcoreapp3.1\CProj2.deps.json
+C:\Users\karpz\source\repos\CProj2\CProj2\bin\Debug\netcoreapp3.1\CProj2.runtimeconfig.json
+C:\Users\karpz\source\repos\CProj2\CProj2\bin\Debug\netcoreapp3.1\CProj2.runtimeconfig.dev.json
+C:\Users\karpz\source\repos\CProj2\CProj2\bin\Debug\netcoreapp3.1\CProj2.dll
+C:\Users\karpz\source\repos\CProj2\CProj2\bin\Debug\netcoreapp3.1\CProj2.pdb
+C:\Users\karpz\source\repos\CProj2\CProj2\obj\Debug\netcoreapp3.1\CProj2.csprojAssemblyReference.cache
+C:\Users\karpz\source\repos\CProj2\CProj2\obj\Debug\netcoreapp3.1\CProj2.AssemblyInfoInputs.cache
+C:\Users\karpz\source\repos\CProj2\CProj2\obj\Debug\netcoreapp3.1\CProj2.AssemblyInfo.cs
+C:\Users\karpz\source\repos\CProj2\CProj2\obj\Debug\netcoreapp3.1\CProj2.csproj.CoreCompileInputs.cache
+C:\Users\karpz\source\repos\CProj2\CProj2\obj\Debug\netcoreapp3.1\CProj2.dll
+C:\Users\karpz\source\repos\CProj2\CProj2\obj\Debug\netcoreapp3.1\CProj2.pdb
+C:\Users\karpz\source\repos\CProj2\CProj2\obj\Debug\netcoreapp3.1\CProj2.genruntimeconfig.cache
